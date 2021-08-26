@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farahdkhil
+- 👋 Hi, I’m farahdkhil
 - 👀 I’m interested in programmation
 - 🌱 I’m currently learning java and angular
 
