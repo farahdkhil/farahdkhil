@@ -1,6 +1,6 @@
-- 👋 Hi, I’m farahdkhil
+- 👋 Hi, I’m farah
 - 👀 I’m interested in programmation
-- 🌱 I’m currently learning java ee and angular
+- 🌱 I’m currently learning .net and angular
 
 <!---
 farahdkhil/farahdkhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
